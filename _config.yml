@@ -1,29 +1,41 @@
-name: Cheerity
-favicon: null
-layout_spectrum: 0.50724
-typography_spectrum: 0.41706
 title: Cheerity
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.4375
+  lightness: 0.75
+  brandStrength: 0.9964158
+  brandColors:
+    - '#262215'
+    - '#ADA26C'
+    - '#67645B'
+    - '#7787A3'
+    - '#ACCFFF'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-71571504-1
   facebook: null
-  twitter: null
+favicon: null
+name: Cheerity
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ff1e35'
-    - '#00f0ee'
-    - '#0b25fe'
-    - '#dedee0'
-    - '#ff8a82'
-  brandStrength: 0.5465792117174715
-  lightness: 0.75
-  saturation: 0.4375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.41706
+layout_spectrum: 0.50724
