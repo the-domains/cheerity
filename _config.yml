@@ -2,6 +2,7 @@ name: Cheerity
 favicon: null
 layout_spectrum: 0.5897651286795735
 typography_spectrum: 0.7122291673440486
+title: Cheerity
 cta:
   domain: null
   bucket: null
