@@ -1,6 +1,6 @@
 name: Cheerity
 favicon: null
-layout_spectrum: 0.5897651286795735
+layout_spectrum: 0.50724
 typography_spectrum: 0.41706
 title: Cheerity
 cta:
@@ -23,7 +23,7 @@ color:
     - '#dedee0'
     - '#ff8a82'
   brandStrength: 0.5465792117174715
-  lightness: 0.6689819728489965
-  saturation: 0.3477333781775087
+  lightness: 0.6875
+  saturation: 0.4375
   rhythmicContrast: 0.3033051327802241
 purpose: []
