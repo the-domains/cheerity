@@ -4,14 +4,21 @@
         <description><![CDATA[Cheerity]]></description>
         <link>https://thegrid.ai/cheerity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 21:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 21:13:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cheerity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/cheerity/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">fed12529-8f43-441f-bf61-2fb92ae9da49</guid>
+            <pubDate>Thu, 17 Dec 2015 21:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Farm animal]]></title>
             <description><![CDATA[<article><h1>Farm animal</h1><p>A place downtown where the sun don't shine.</p></article>]]></description>
             <link>https://thegrid.ai/cheerity/farm-animal/index.html</link>
             <guid isPermaLink="false">02f2a213-0ae2-4164-ae38-70b55171b06b</guid>
-            <pubDate>Thu, 17 Dec 2015 21:11:09 GMT</pubDate>
+            <pubDate>Thu, 17 Dec 2015 21:12:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goats are very popular these days.]]></title>
